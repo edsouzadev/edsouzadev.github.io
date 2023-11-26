@@ -1,35 +1,35 @@
 const resource = [
   /* --- CSS --- */
-  '/https://edsouzadev.github.io/assets/css/jekyll-theme-chirpy.css',
+  '/assets/css/jekyll-theme-chirpy.css',
 
   /* --- PWA --- */
-  '/https://edsouzadev.github.io/app.js',
-  '/https://edsouzadev.github.io/sw.js',
+  '/app.js',
+  '/sw.js',
 
   /* --- HTML --- */
-  '/https://edsouzadev.github.io/index.html',
-  '/https://edsouzadev.github.io/404.html',
+  '/index.html',
+  '/404.html',
 
   
-    '/https://edsouzadev.github.io/categories/',
+    '/categories/',
   
-    '/https://edsouzadev.github.io/tags/',
+    '/tags/',
   
-    '/https://edsouzadev.github.io/archives/',
+    '/archives/',
   
-    '/https://edsouzadev.github.io/about/',
+    '/about/',
   
 
   /* --- Favicons & compressed JS --- */
   
   
-    '/https://edsouzadev.github.io/assets/img/favicons/android-chrome-192x192.png',
-    '/https://edsouzadev.github.io/assets/img/favicons/android-chrome-512x512.png',
-    '/https://edsouzadev.github.io/assets/img/favicons/apple-touch-icon.png',
-    '/https://edsouzadev.github.io/assets/img/favicons/favicon-16x16.png',
-    '/https://edsouzadev.github.io/assets/img/favicons/favicon-32x32.png',
-    '/https://edsouzadev.github.io/assets/img/favicons/favicon.ico',
-    '/https://edsouzadev.github.io/assets/img/favicons/mstile-150x150.png'
+    '/assets/img/favicons/android-chrome-192x192.png',
+    '/assets/img/favicons/android-chrome-512x512.png',
+    '/assets/img/favicons/apple-touch-icon.png',
+    '/assets/img/favicons/favicon-16x16.png',
+    '/assets/img/favicons/favicon-32x32.png',
+    '/assets/img/favicons/favicon.ico',
+    '/assets/img/favicons/mstile-150x150.png'
 ];
 
 /* The request url with below domain will be cached */
